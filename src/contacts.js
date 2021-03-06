@@ -1,5 +1,6 @@
 const contacts = [
   {
+    id: 1,
     name: "Eric Scott",
     imgURL:
       "https://7bb55e26c60cdafe71ab-4daea348e87998c743e4082f8d747238.ssl.cf2.rackcdn.com/2019/06/bruce2-1.png",
@@ -7,6 +8,7 @@ const contacts = [
     email: "scott@eric.com"
   },
   {
+    id: 2,
     name: "Jess Martin",
     imgURL:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8d0NUXwKbj0HCCZ9R1BdI79dYztzLkUawA&usqp=CAU",
@@ -14,6 +16,7 @@ const contacts = [
     email: "gmail@jessmartin.com"
   },
   {
+    id: 3,
     name: "Steve King",
     imgURL:
       "https://p.kindpng.com/picc/s/145-1454384_contact-tie-user-default-suit-display-woman-icon.png",
