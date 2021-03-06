@@ -5,7 +5,7 @@ function Avatar(props) {
         className="circle-img"
         src={props.src}
         alt="avatar_img"
-    />
+    />;
 }
 
 export default Avatar;
